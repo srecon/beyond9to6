@@ -33,10 +33,36 @@ It leverages **Google's Gemini 2.5 Flash API** to act as an on-demand personal f
 ### 2. Interactive Dashboard & Analysis
 
 * **KPI Cards**: Instant summaries of Net Worth, Monthly Passive Income, and Total Debt.
+
+<p align="center">
+    <img src="./dashboard.png" alt="Screenshot of the main WealthFolio Dashboard showing KPIs, charts, and asset breakdown." width="600" height="300" style="margin-right: 15px;"/> 
+</p>
+    
 * **Wealth Pyramid**: Visualizes your risk structure from foundational to speculative assets. Get immediate visual feedback on your financial stability.
+
+<p align="center">
+    
+    <img src="./wealth.png" alt="A screenshot of the Wealth Pyramid chart visualizing asset allocation across Foundation, Growth, and High-Risk tiers." width="600" height="300"/>
+</p>
+
 * **Income Mind Map**: A node-based view of all your revenue streams and their interdependencies.
+
+<p align="center">
+    <img src="./income_sources.png" alt="Screenshot of the main WealthFolio Dashboard showing KPIs, charts, and asset breakdown." width="600" height="300" style="margin-right: 15px;"/>
+</p>    
+
 * **Financial Plans**: Track quarterly goals (e.g., "Buy House Q4") and get AI feedback on your probability of achievement.
+
+<p align="center">
+    <img src="./notesandplans.png" alt="Screenshot of the main WealthFolio Dashboard showing KPIs, charts, and asset breakdown." width="600" height="300" style="margin-right: 15px;"/>
+</p>    
+
 * **History Tracking**: Save snapshots of your portfolio to track progress and performance over time.
+
+<p align="center">
+    <img src="./aianalysis.png" alt="Screenshot of the main WealthFolio Dashboard showing KPIs, charts, and asset breakdown." width="600" height="300" style="margin-right: 15px;"/> 
+</p>
+
 
 ### 3. Global Settings & Localization
 
