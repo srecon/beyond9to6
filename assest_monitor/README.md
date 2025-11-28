@@ -42,25 +42,31 @@ It leverages **Google's Gemini 2.5 Flash API** to act as an on-demand personal f
 
 <p align="center">
     
-    <img src="./wealth.png" alt="A screenshot of the Wealth Pyramid chart visualizing asset allocation across Foundation, Growth, and High-Risk tiers." width="600" height="300"/>
+    <img src="./wealth.png" alt="A screenshot of the Wealth Pyramid chart visualizing asset allocation across Foundation, Growth, and High-Risk tiers." width="600" height="300" style="margin-right: 15px; />
+    
 </p>
 
 * **Income Mind Map**: A node-based view of all your revenue streams and their interdependencies.
 
 <p align="center">
+
     <img src="./income_sources.png" alt="Screenshot of the main WealthFolio Dashboard showing KPIs, charts, and asset breakdown." width="600" height="300" style="margin-right: 15px;"/>
+    
 </p>    
 
 * **Financial Plans**: Track quarterly goals (e.g., "Buy House Q4") and get AI feedback on your probability of achievement.
 
 <p align="center">
+
     <img src="./notesandplans.png" alt="Screenshot of the main WealthFolio Dashboard showing KPIs, charts, and asset breakdown." width="600" height="300" style="margin-right: 15px;"/>
+    
 </p>    
 
 * **History Tracking**: Save snapshots of your portfolio to track progress and performance over time.
 
 <p align="center">
     <img src="./aianalysis.png" alt="Screenshot of the main WealthFolio Dashboard showing KPIs, charts, and asset breakdown." width="600" height="300" style="margin-right: 15px;"/> 
+    
 </p>
 
 
@@ -164,4 +170,3 @@ WealthFolio AI is a powerful prototype, but has a few current limitations that w
 * [Google AI Studio](https://aistudio.google.com/) - Generate your Gemini API Key here.
 * [Gemini API Documentation](https://ai.google.dev/gemini-api/docs) - The official documentation for the AI models used.
 * [React Official Documentation](https://react.dev/)
-
