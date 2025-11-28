@@ -42,8 +42,7 @@ It leverages **Google's Gemini 2.5 Flash API** to act as an on-demand personal f
 
 <p align="center">
     
-    <img src="./wealth.png" alt="A screenshot of the Wealth Pyramid chart visualizing asset allocation across Foundation, Growth, and High-Risk tiers." width="600" height="300" style="margin-right: 15px; />
-    
+    <img src="./wealth.png" alt="A screenshot of the Wealth Pyramid chart visualizing asset allocation across Foundation, Growth, and High-Risk tiers." width="600" height="300" style="margin-right: 15px;" />
 </p>
 
 * **Income Mind Map**: A node-based view of all your revenue streams and their interdependencies.
@@ -59,14 +58,12 @@ It leverages **Google's Gemini 2.5 Flash API** to act as an on-demand personal f
 <p align="center">
 
     <img src="./notesandplans.png" alt="Screenshot of the main WealthFolio Dashboard showing KPIs, charts, and asset breakdown." width="600" height="300" style="margin-right: 15px;"/>
-    
 </p>    
 
 * **History Tracking**: Save snapshots of your portfolio to track progress and performance over time.
 
 <p align="center">
     <img src="./aianalysis.png" alt="Screenshot of the main WealthFolio Dashboard showing KPIs, charts, and asset breakdown." width="600" height="300" style="margin-right: 15px;"/> 
-    
 </p>
 
 
