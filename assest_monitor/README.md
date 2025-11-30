@@ -6,6 +6,8 @@ WealthFolio AI is a comprehensive, privacy-focused web application designed to t
 
 It leverages **Google's Gemini 2.5 Flash API** to act as an on-demand personal financial advisor, providing detailed analysis of your net worth, diversification, and alignment with your future financial goals.
 
+📌 Play with the [demo](https://wealtholio.vercel.app/). 
+
 ---
 
 ## 🌟 Why WealthFolio AI? (Key Value & Benefits)
