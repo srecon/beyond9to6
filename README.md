@@ -4,6 +4,12 @@
 
 We offer structured guidance, tools, and proven frameworks to help you successfully transition away from restrictive, traditional work schedules. We provide our services through various formats, which can include consulting, digital courses, and community coaching, all focused on comprehensive lifestyle and career redesign.
 
+| Tools          | Codebase                             | Summary                                   |   |   |
+|----------------|--------------------------------------|-------------------------------------------|---|---|
+| assest_monitor | [./assest_monitor](./assest_monitor) | Intelligent Multi-Asset Portfolio Tracker |   |   |
+| Todo           |                                      |                                           |   |   |
+| Todo           |                                      |                                           |   |   |
+
 ## How We Help (Personal Freedom Engineering)
 
 We help you by employing our proprietary methodology: Personal Freedom Engineering.
